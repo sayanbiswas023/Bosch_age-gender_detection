@@ -4,7 +4,7 @@
 
 
 2.Run the command
-	pip install -r requirements.txt
+	!pip install -r requirements.txt
 
 #.If you are having any issue with installing torch and/or torchvisoin may be you'll like to do 
 'conda install pytorch torchvision -c pytorch' seperately to install torch
